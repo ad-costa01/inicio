@@ -8,3 +8,5 @@ teste para anotação.
 teste de alteração remota(diretamente do GitHub)
 
 teste no terminal
+
+teste no terminal (usnado pull e fetch)

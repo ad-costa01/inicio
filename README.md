@@ -1,12 +1,2 @@
-# Início
-Primeiro repositório do curso Git e Github.
-
-Adicionei essa linha pelo GiThUB.
-
-teste para anotação.
-
-teste de alteração remota(diretamente do GitHub)
-
-teste no terminal
-
-teste no terminal (usnado pull e fetch)
+#Inicio
+ revisão de change no readme pelo remote repository
